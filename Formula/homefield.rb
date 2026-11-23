@@ -17,9 +17,9 @@ class Homefield < Formula
   # The version and the url version are kept in sync by the release automation:
   # both are rewritten together from the release tag, and the sha256 is that
   # of the release tarball the url points at.
-  version "0.5.7"
-  url "https://codeload.github.com/i2Dev-com/homefield/tar.gz/v0.5.7"
-  sha256 "4b6b30e2c0f74cc9dc489f741527a4bdd819c2b086a6a9ddb54a946b81128a35"
+  version "0.5.8"
+  url "https://codeload.github.com/i2Dev-com/homefield/tar.gz/v0.5.8"
+  sha256 "0b8b4c49900bb2359f3794d56416ee2ee6af958d750e4a5b7d0a59e603ecbdc6"
 
   def install
     # The tarball's executable is bin/homefield, and it resolves its root
